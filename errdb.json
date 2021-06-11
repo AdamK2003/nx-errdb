@@ -124,7 +124,9 @@
 	"errors":{
 		"2162-0002":{
 			"description":"Running out of audio sessions"
-			"resolution":"Disable sysmodules, especially ones related to audio"
+			"resolutions":[
+				"Disable sysmodules, especially ones related to audio"
+			]
 		}
 	}
 }
